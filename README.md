@@ -1,2 +1,2 @@
 # cnnTSR
-cnn based model for traffic sign recoginition.
+cnn model for traffic sign recoginition using keras.
